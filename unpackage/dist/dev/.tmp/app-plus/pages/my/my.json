@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "我的",
+  "usingComponents": {
+    "comm-footer": "/components/commFooter/commFooter"
+  }
+}

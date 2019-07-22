@@ -1,0 +1,1 @@
+<view class="content"><image class="logo" src="/static/logo.png"></image><view class="regBtns"><navigator class="regBtn" url="../reg/reg">注册</navigator><navigator class="loginBtn" url="../login/login">登录</navigator></view></view>

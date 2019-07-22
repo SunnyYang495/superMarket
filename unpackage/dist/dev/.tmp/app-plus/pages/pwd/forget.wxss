@@ -1,0 +1,27 @@
+
+.reDiv{
+	margin-top:10px;
+	padding:0 10px;
+}
+.subTitle{
+	height: 1px;
+	background:#8F8F94;
+	position:relative;
+}
+.subTitle text{
+	width:120px;
+	height: 25px;
+	position:absolute;
+	left:50%;
+	top: -12px;
+	margin-left:-60px;
+	text-align:center;
+	line-height: 25px;
+	color:#8F8F94;
+	font-size:28rpx;
+	background:#fff;
+}
+.verify{
+	height: 38px;
+}
+

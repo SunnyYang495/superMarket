@@ -1,0 +1,1 @@
+<view><goods-list vue-id="1" goodsList="{{dataList}}" isSortDesc="{{isDesc}}" isSortByCount="{{sortMode}}" isLoad="{{needLoad}}" data-event-opts="{{[['^pOrderByCount',[['orderByCount']]],['^pOrderByPrice',[['orderByPrice']]],['^pLoadMoreGoods',[['loadMoreGoods']]]]}}" bind:pOrderByCount="__e" bind:pOrderByPrice="__e" bind:pLoadMoreGoods="__e" bind:__l="__l"></goods-list></view>

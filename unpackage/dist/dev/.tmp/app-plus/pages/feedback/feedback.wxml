@@ -1,0 +1,1 @@
+<view><view class="uniTextArea"><textarea class="feedbackText" maxlength="400"></textarea></view><view class="submitFeedback"><button type="primary">提交</button></view></view>

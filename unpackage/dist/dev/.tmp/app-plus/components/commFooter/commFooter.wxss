@@ -1,0 +1,26 @@
+
+.footer{
+	width:100%;
+	height: 60px;
+	background: #fff;
+	position:fixed;
+	bottom:0;
+	left:0;
+	border-top:1px solid #eee;
+}
+.footer ._span{
+	height: 35px;
+	line-height: 35px;
+	font-size:50rpx;
+}
+.footerMenu{
+	-webkit-box-sizing: border-box;
+	        box-sizing: border-box;
+	width:33.3333333%;
+	text-align: center;
+	font-size: 28rpx;
+}
+.tapColor{
+	color:#3AA7F8;
+}
+

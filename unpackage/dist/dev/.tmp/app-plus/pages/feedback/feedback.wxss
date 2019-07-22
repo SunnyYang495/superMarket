@@ -1,0 +1,13 @@
+
+.uniTextArea{
+	text-align: center;
+	margin: 10px 0;
+}
+.feedbackText{
+	border: 1px solid #888888;
+	display: inline-block;
+}
+.submitFeedback{
+	padding:0 10px;
+}
+

@@ -1,0 +1,105 @@
+
+.commTitle{
+	height: 70rpx;
+	line-height: 70rpx;
+	padding:0 10px;
+	-webkit-box-sizing: border-box;
+	        box-sizing: border-box;
+	border-bottom:1px solid #EEEEEE;
+	font-weight: bold;
+}
+.addressView{
+	padding:10px;
+	border-bottom:10px solid #eee;
+}
+.addr{
+	width:90%;
+}
+.basicInfo{
+	margin-bottom: 5px;
+	font-size:30rpx;
+}
+.detailInfo{
+	font-size:28rpx;
+	color:#ABABAB;
+}
+.linkAddrs{
+	height:136rpx;
+	line-height: 136rpx;
+}
+.GoodsList{
+	border-bottom:10px solid #eee;
+}
+.goods{
+	padding:10px;
+	-webkit-box-pack: start;
+	-webkit-justify-content: flex-start;
+	    -ms-flex-pack: start;
+	        justify-content: flex-start;
+	border-bottom:1px solid #eee;
+}
+.goodsImg{
+	width:25%;
+}
+.goodsImg ._img{
+	width:100%;
+	min-height:180rpx;
+	max-height: 200rpx;
+}
+.goodsInfo{
+	 padding-left:10px;
+	 width:75%;
+	 -webkit-box-sizing: border-box ;
+	         box-sizing: border-box ;
+}
+.payType{
+	padding:10px;
+	margin-bottom:110rpx;
+}
+.payTypes{
+	height: 70rpx;
+	line-height: 70rpx;
+	padding:0 10px;
+}
+.commitOrder{
+	height: 100rpx;
+	line-height: 100rpx;
+	position:fixed;
+	width:100%;
+	left:0;
+	bottom:0;
+	font-size:30rpx;
+	border-top:1px solid #eee;
+	background: #fff;
+}
+.freight{
+	width:30%;
+	-webkit-box-sizing: border-box;
+	        box-sizing: border-box;
+	padding-left: 10px;
+}
+.totalMoney{
+	width:40%;
+	-webkit-box-sizing: border-box;
+	        box-sizing: border-box;
+	padding-right: 10px;
+	text-align: right;
+}
+.commit{
+	width:30%;
+	background:#3AA7F8;
+	color:#fff;
+	text-align: center;
+}
+.uni-list{
+	padding-top:10px;
+}
+.uni-list-cell{
+	height: 68rpx;
+	line-height: 68rpx;
+}
+.price{
+	color:red;
+	font-weight: bold;
+}
+

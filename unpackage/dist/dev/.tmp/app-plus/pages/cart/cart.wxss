@@ -1,0 +1,136 @@
+
+.shopName{
+	-webkit-box-pack: start;
+	-webkit-justify-content: flex-start;
+	    -ms-flex-pack: start;
+	        justify-content: flex-start;
+	height: 35px;
+	line-height: 35px;
+	font-size: 32rpx;
+	border-bottom:1px solid #eee;
+}
+.iconView{
+	width:10%
+}
+.iconView ._span{
+	font-size:40rpx;
+}
+.cartCont{
+	width:75%;
+}
+.edit{
+	width:15%;
+	text-align: right;
+	color:#888888;
+	font-size: 30rpx;
+}
+.goodsList{
+	margin-bottom: 110px;
+}
+.goods{
+	width:100%;
+	padding:10px 0;
+	border-bottom:1px solid #eee;
+	position: relative;
+}
+.goodsImg{
+	width:35%;
+}
+.goodsImg ._img{
+	width:100%;
+	min-height: 135rpx;
+	max-height: 190rpx;
+}
+.goodsInfo{
+	width:65%;
+	font-size:28rpx;
+	padding-left: 5px;
+	-webkit-box-sizing: border-box;
+	        box-sizing: border-box;
+}
+.price{
+	color:red;
+	font-weight: bold;
+}
+.editIcon{
+	padding-bottom: 15px;
+}
+.editIcon ._span{
+	font-size:40rpx;
+}
+.modifyCount{
+	width:40%;
+	position:absolute;
+	right:0px;
+	bottom:15px;
+	font-size: 28rpx;
+	color: #555;
+	height: 60rpx;
+	line-height: 60rpx;
+}
+.countInput{
+	width:20%;
+	/* padding:0 2px; */
+	border:1px solid #ABABAB;
+	height: 64rpx;
+	line-height: 64rpx;
+	-webkit-box-sizing: border-box;
+	        box-sizing: border-box;
+	display: block;
+}
+.modifyBtnView{
+	width:40%;
+	
+	display: block;
+	-webkit-box-sizing: border-box;
+	        box-sizing: border-box;
+}
+.modifyBtn{
+	font-size: 28rpx;
+	height: 64rpx;
+	line-height: 64rpx;
+}
+.countSet{
+	border:1px solid #ABABAB;
+	width:20%;
+	text-align: center;
+	-webkit-box-sizing: border-box;
+	        box-sizing: border-box;
+}
+.countInput ._div{
+	width:auto;
+}
+.selectIcon{
+	color:#42b983;
+}
+.settleView{
+	position:fixed;
+	width:100%;
+	font-size:30rpx;
+	height: 80rpx;
+	line-height: 80rpx;
+	bottom:60px;
+	left: 0;
+	padding-left:10px;
+	-webkit-box-sizing: border-box;
+	        box-sizing: border-box;
+	background: #fff;
+	border-top:2px solid #eee;
+}
+.deliveryPrice{
+	width:25%;
+}
+.totalGoods{
+	width:15%;
+	text-align: center;
+}
+.totalMoney{
+	width:25%
+}
+.settle{
+	width:35%;
+	background:#3AA7F8;
+	color:#fff;
+	text-align:center;
+}
+

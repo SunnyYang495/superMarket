@@ -1,0 +1,1 @@
+<view class="inputView"><view>请选择超市</view><view class="shopList"><block wx:for="{{shopList}}" wx:for-item="item" wx:for-index="index" wx:key="index"><block><button data-event-opts="{{[['tap',[['shopTap',[index]]]]]}}" bindtap="__e">{{item.Shop_name}}</button></block></block></view></view>

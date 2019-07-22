@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"villageList wx-button{ margin-top:10px; }\n",],undefined,{path:"./pages/selectArea/villageList.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/selectArea/villageList.wxml') } }));

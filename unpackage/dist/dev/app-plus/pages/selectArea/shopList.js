@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"shopList wx-button{ margin-top:10px; }\n",],undefined,{path:"./pages/selectArea/shopList.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/selectArea/shopList.wxml') } }));

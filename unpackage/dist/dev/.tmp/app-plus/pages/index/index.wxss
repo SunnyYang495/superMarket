@@ -1,0 +1,44 @@
+
+.content {
+	text-align: center;
+	height: 400rpx;
+}
+.logo {
+	height: 200rpx;
+	width: 200rpx;
+	margin-top: 200rpx;
+}
+.title {
+	font-size: 36rpx;
+	color: #8f8f94;
+}
+.regBtns{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	    -ms-flex-pack: justify;
+	        justify-content: space-between;
+	padding:10px;
+}
+.regBtns navigator{
+	width:200rpx;
+	border:1px solid #3AA7F8;
+	
+	-webkit-border-radius:5px;
+	
+	        border-radius:5px;
+	font-size: 24rpx;
+	height: 30px;
+	line-height: 30px;
+}
+.loginBtn{
+	color: #FFFFFF;
+	background: #3AA7F8;
+}
+.regBtn{
+	color:#3AA7F8;
+}
+

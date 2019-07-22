@@ -1,0 +1,1 @@
+<view class="inputView"><view>请选择小区</view><view class="villageList"><block wx:for="{{viList}}" wx:for-item="item" wx:for-index="index" wx:key="index"><block><button data-event-opts="{{[['tap',[['villageTap',[index]]]]]}}" bindtap="__e">{{item.Village_name}}</button></block></block></view></view>

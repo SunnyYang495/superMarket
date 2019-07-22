@@ -1,0 +1,47 @@
+body{
+	font-size: 32upx;
+}
+.commonView{
+	padding: 0px 10px;
+}
+.inputView{
+	padding: 0px 10px;
+	margin:10px 0;
+}
+.inputView input{
+	border:1px solid #8F8F94;
+	border-radius:3px;
+	padding:5px 10px;
+	font-size: 24upx;
+}
+.flexBox{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	align-content: space-between;
+}
+.flexBox .mobile{
+	width:60%;
+}
+.flexBox .verify{
+	width:28%;
+	font-size: 26upx;
+}
+.tapBtn{
+	font-size:30upx;
+}
+.commBtn{
+	background:#3AA7F8;
+	color:#FFFFFF;
+}
+.textOver{
+	overflow: hidden;
+	text-overflow:ellipsis;
+	white-space: nowrap;
+}
+img{
+	width:100%;
+}
+.price{
+	color:red;
+}

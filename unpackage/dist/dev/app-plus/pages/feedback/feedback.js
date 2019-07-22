@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"uniTextArea{ text-align: center; margin: 10px 0; }\n.",[1],"feedbackText{ border: 1px solid #888888; display: inline-block; }\n.",[1],"submitFeedback{ padding:0 10px; }\n",],undefined,{path:"./pages/feedback/feedback.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/feedback/feedback.wxml') } }));

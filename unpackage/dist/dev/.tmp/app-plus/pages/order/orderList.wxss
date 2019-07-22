@@ -1,0 +1,40 @@
+
+.orderHead{
+	height: 70rpx;
+	line-height: 70rpx;
+	font-size: 28rpx;
+}
+.orderType{
+	width:20%;
+	text-align: center;
+	border-bottom: 1px solid #DADADA;
+}
+.clickedType{
+	color: #3AA7F8;
+	border-bottom: 1px solid #3AA7F8;
+}
+.order{
+	padding:10px;
+	font-size: 28rpx;
+	color:#8F8F94;
+	-webkit-box-align: end;
+	-webkit-align-items: flex-end;
+	    -ms-flex-align: end;
+	        align-items: flex-end;
+	border-bottom:1px solid #DADADA ;
+}
+.orderId{
+	font-size: 30rpx;
+	font-weight: bold;
+	color:#000;
+	margin:5px 0;
+}
+.orderMargin{
+	margin:3px 0;
+}
+.loadMore{
+	height: 80rpx;
+	line-height: 80rpx;
+	text-align:center;
+}
+

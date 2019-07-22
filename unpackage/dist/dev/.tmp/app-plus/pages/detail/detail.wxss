@@ -1,0 +1,52 @@
+
+.swiper{
+	height: 500rpx;
+}
+.swiper-item ._img{
+	width:100%;
+}
+.goodsInfo{
+	padding:10px;
+	color:#ABABAB;
+	font-size: 28rpx;
+}
+.goodsName{
+	color:#000000;
+	padding:10px 0 15px;
+	font-weight: bold;
+}
+.commMargin{
+	margin:10px 0;
+}
+.margin5{
+	margin:15px 0 10px;
+}
+.footer{
+	position:fixed;
+	left: 0;
+	bottom:0;
+	width:100%;
+	height: 60px;
+	font-size:30rpx;
+	text-align: center;
+	color: #fff;
+}
+.blackMenu{
+	width:20%;
+	background: #888888;
+	font-size:24rpx;
+}
+.blackMenu ._span{
+	height: 33px;
+	line-height: 35px;
+	font-size:50rpx;
+}
+.addCart{
+	width:40%;
+	background: #f6770f;
+	line-height: 60px;
+}
+.collected{
+	color:#F6770F;
+}
+

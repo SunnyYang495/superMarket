@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"commitSucc{ text-align: center; }\n.",[1],"succIcon .",[1],"_span{ font-size: ",[0,150],"; color:#42B983; }\n.",[1],"orderInfos{ padding:0 10px; }\n.",[1],"orderInfo{ height: ",[0,80],"; line-height: ",[0,80],"; border-bottom:1px solid #DADADA; }\n.",[1],"viewOrder{ border-bottom:1px solid #DADADA; }\n.",[1],"viewOrder wx-button{ margin: 10px 0; }\n",],undefined,{path:"./pages/order/orderState.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/order/orderState.wxml') } }));

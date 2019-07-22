@@ -1,0 +1,23 @@
+
+.commitSucc{
+	text-align: center;
+}
+.succIcon ._span{
+	font-size: 150rpx;
+	color:#42B983;
+}
+.orderInfos{
+	padding:0 10px;
+}
+.orderInfo{
+	height: 80rpx;
+	line-height: 80rpx;
+	border-bottom:1px solid #DADADA;
+}
+.viewOrder{
+	border-bottom:1px solid #DADADA;
+}
+.viewOrder button{
+	margin: 10px 0;
+}
+

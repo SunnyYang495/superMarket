@@ -1,0 +1,43 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/login/login",
+    "pages/reg/reg",
+    "pages/pwd/forget",
+    "pages/main/main",
+    "pages/selectArea/selectArea",
+    "pages/selectArea/villageList",
+    "pages/selectArea/shopList",
+    "pages/detail/detail",
+    "pages/cart/cart",
+    "pages/category/category",
+    "pages/settle/settle",
+    "pages/goods/goods",
+    "pages/my/my",
+    "pages/search/search",
+    "pages/addr/addr",
+    "pages/order/order",
+    "pages/order/orderList",
+    "pages/order/orderState",
+    "pages/order/orderDetail",
+    "pages/order/returnOrders",
+    "pages/feedback/feedback",
+    "pages/collection/myCollection",
+    "pages/order/cancelOrder"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#fbf9fe"
+  },
+  "nvueCompiler": "weex",
+  "splashscreen": {
+    "alwaysShowBeforeRender": true,
+    "autoclose": false
+  },
+  "appname": "shoppingMall",
+  "compilerVersion": "2.0.1",
+  "usingComponents": {}
+}
